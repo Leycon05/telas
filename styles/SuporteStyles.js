@@ -23,6 +23,8 @@ const ContatoStyles = StyleSheet.create({
     paddingHorizontal: 20,
     paddingTop: 20,
     marginBottom: 10,
+    marginTop: 50,
+
   },
   blueBar: {
     width: 7.86,
